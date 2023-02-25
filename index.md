@@ -1,91 +1,95 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: A.L. Noel–Hirst
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# A. L. Noel-Hirst 
+Creative Computing Researcher, Designer, Composer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="A.l.noel-hirst@qmul.ac.uk">A.l.noel-hirst@qmul.ac.uk</a>
+| <a href="http://noelhirst.net"> noelhirst.net </a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+EPSRC-funded PhD student in Artificial Intelligence and Music at the __Centre for Digital Music - Queen Mary, University of London__ 
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Also affiliated with the Sonic Interaction Design Lab, Communication Acoustics Lab, and Cognitive Science Group.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Explainable Artificial Intelligence, End-User Programming, Human-Computer Interaction  
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020 - 2022`
+__Goldsmiths College, University of London__
+M.Mus. Sonic Arts (Distinction)  
+Awards: Excellence Fee Waiver, Sarah Caple Award (composition)  
+Thesis: Using Participatory Design to Situate Machine Listening Algorithms in Responsive and Interactive Scores.  
+Advisor: Dr Jess Aslan  
+Mentor: Professor Atau Tanaka  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2016-2020`
+__University of Warwick__
+B.A. Major in Philosophy, Minor in Mathematics (First-Class)  
+Awards: Arts centre scholarship (jazz performance)  
+Dissertation: Analysing Interpersonal Negotiation in Improvised Ensemble Performances
+Advisors: Dr Kirsten Harris, Dr Bryan Brazeau 
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2023 - Present`
+__Queen Mary, University of London__ Demonstrator – User Experience Design
+Support tutorials, providing feedback on student ethnographies, analyses and designs. 
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2021 - Present`
+__Goldsmiths College__ Research Assistant – [MocapStreamer](http://mocapstreamer.live/)  
+Support development and evaluation of telematic motion capture technology for music and dance.  
 
 
+`2021`
+__University of Oxford__ Research Assistant – AI and Music  
+Develop and assess computational composition tools built with Python (PyTorch). 
+
+## Internships
+
+`2021 - 2022`
+__Imperial War Museum__  
+Conduct and analyse focus group research on digital accessibility and museum informatics in the new hollocaust galleries 
+
+`2021`
+__Stanford and Goldsmiths, University of London__ – [HybridLive](https://gtr.ukri.org/projects?ref=AH%2FV009567%2F1)  
+Intern under Prof. Atau Tanaka, assessing use-cases of creativity support tools in telematic musical improvisation
+
+`2015 - 2016`
+__Kings College London and the University of Surrey__ – Beyond HRV: Attractor Reconstruction With Cardiovascular Waveform Data  
+Prototype biomedical signal processing software in MATLAB and write summary reports. (Professor Philip Aston went on to present work from this project at the fields institute)  
+
+## Presentations/Publications
+
+### Presentations
+`2023`
+Dance in the Metaverse: Tools for Accessibility, __SXSW__
+
+`2023`
+End-User Cross-Modality for Explainable Latent Spaces, __University College London Interaction Centre & Queen Mary Cognitive Science Group Workshop__
+
+`2022`
+Explainability in End-User Creative Artificial Intelligence, __Digital Music Research Network One-day Workshop__
+
+`2021`
+Particle-Based GUI for Collaborative Granular Synthesis, __Goldsmiths Centre for Sound, Technology and Culture__
+
+### Publications
+
+`Forthcoming`
+__Non-Conventional Applications of Rule-Based Systems to MeasureVAE, a Musical Deep Learning System__ (with N. Bryan-Kinns and Berker Banar)
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: February 2023 -->
 
 
