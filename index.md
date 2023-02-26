@@ -12,18 +12,7 @@ Creative Computing Researcher, Designer, Composer
 
 
 ## Currently
-
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-EPSRC-funded PhD student in AI and music at the __Centre for Digital Music - Queen Mary, University of London__ 
-=======
 EPSRC-funded PhD student in Artificial Intelligence and Music at the __Centre for Digital Music - Queen Mary, University of London__. Also affiliated with the Sonic Interaction Design Lab, Communication Acoustics Lab, and Cognitive Science Group.
->>>>>>> Stashed changes
-=======
-EPSRC-funded PhD student in Artificial Intelligence and Music at the __Centre for Digital Music - Queen Mary, University of London__ 
-
-Also affiliated with the Sonic Interaction Design Lab, Communication Acoustics Lab, and Cognitive Science Group.
->>>>>>> 63cb455020fd183811b833dc59106de854df59b2
 
 ### Research interests
 
