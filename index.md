@@ -32,7 +32,7 @@ Mentor: Professor Atau Tanaka
 __University of Warwick__
 B.A. Major in Philosophy, Minor in Mathematics (First-Class)  
 Awards: Arts centre scholarship (jazz performance)  
-Dissertation: Analysing Interpersonal Negotiation in Improvised Ensemble Performances
+Dissertation: Analysing Interpersonal Negotiation in Improvised Ensemble Performances.
 Advisors: Dr Kirsten Harris, Dr Bryan Brazeau 
 
 
