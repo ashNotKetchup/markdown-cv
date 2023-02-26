@@ -20,7 +20,7 @@ Explainable Artificial Intelligence, End-User Programming, Human-Computer Intera
 
 
 ## Education
-`2020 - 2022`
+`2020-2022`
 __Goldsmiths College, University of London__
 M.Mus. Sonic Arts (Distinction)  
 Awards: Excellence Fee Waiver, Sarah Caple Award (composition)  
@@ -37,11 +37,11 @@ Advisors: Dr Kirsten Harris, Dr Bryan Brazeau
 
 
 ## Occupation
-`2023 - Now`
+`2021-Present`
 __Queen Mary, University of London__ Demonstrator – User Experience Design
 Support tutorials, providing feedback on student ethnographies, analyses and designs. 
 
-`2021 - Now`
+`2021-Present`
 __Goldsmiths College__ Research Assistant – [MocapStreamer](http://mocapstreamer.live/)  
 Support development and evaluation of telematic motion capture technology for music and dance.  
 
