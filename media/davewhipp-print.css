@@ -221,6 +221,7 @@ h4 {
 }
 
 h1 {
+	font-weight: 600;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
@@ -265,7 +266,7 @@ a:hover {
 }
 
 #webaddress {
-	margin-bottom: 1.5em;
+	margin-bottom: 2em;
 	position: relative;
 	left: 25%;
 	color: #ccc;
