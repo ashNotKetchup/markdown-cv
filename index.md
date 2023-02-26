@@ -46,24 +46,13 @@ Support tutorials, providing feedback on student ethnographies, analyses and des
 __Goldsmiths College__ Research Assistant – [MocapStreamer](http://mocapstreamer.live/)  
 Support development and evaluation of telematic motion capture technology for music and dance.  
 
-
 `2021`
 __University of Oxford__ Research Assistant – AI and Music  
 Develop and assess computational composition tools built with Python (PyTorch). 
 
-## Internships
-
-`2021 - 2022`
-__Imperial War Museum__  
-Conduct and analyse focus group research on digital accessibility and museum informatics in the new hollocaust galleries 
-
 `2021`
-__Stanford and Goldsmiths, University of London__ – [HybridLive](https://gtr.ukri.org/projects?ref=AH%2FV009567%2F1)  
+__Stanford and Goldsmiths, University of London__ Intern – [HybridLive](https://gtr.ukri.org/projects?ref=AH%2FV009567%2F1)  
 Intern under Prof. Atau Tanaka, assessing use-cases of creativity support tools in telematic musical improvisation
-
-`2015 - 2016`
-__Kings College London and the University of Surrey__ – Beyond HRV: Attractor Reconstruction With Cardiovascular Waveform Data  
-Prototype biomedical signal processing software in MATLAB and write summary reports. (Professor Philip Aston went on to present work from this project at the fields institute)  
 
 ## Presentations/Publications
 
