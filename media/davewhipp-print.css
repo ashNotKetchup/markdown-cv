@@ -95,9 +95,12 @@ video {
 
 
 h2,
-h3,
+h3{
+ 	margin-bottom: 0.1em;
+}
+
 p{
-	margin-bottom: 1.5em;
+	margin-bottom: 1em;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -262,7 +265,7 @@ a:hover {
 }
 
 #webaddress {
-	/* margin-top: 1em; */
+	margin-bottom: 1.5em;
 	position: relative;
 	left: 25%;
 	color: #ccc;
