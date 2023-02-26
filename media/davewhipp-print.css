@@ -54,7 +54,7 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 12pt;
-	line-height: 1.35em;
+	/* line-height: 1.35em; */
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	/*margin-top: 1em;
@@ -64,7 +64,7 @@ body {
 p {
 	position: relative;
 	left: 25%;
-	margin-bottom: 0.2em;
+	/* margin-bottom: 0.2em; */
 	margin-right: 0;
 	width: 60%;
 }
@@ -88,7 +88,7 @@ ul {
 	position: relative;
 	left: 25%;
 	width: 75%;
-	margin-bottom: 1em;
+	/* margin-bottom: 1em; */
 	/*margin-top: -0.5em;*/
 }
 
@@ -110,7 +110,7 @@ li ul {
 	position: relative;
 	left: 0;
 	width: 100%;
-	margin-top: 0.25em;
+	/* margin-top: 0.25em; */
 }
 
 h1,h2,h3,h4 {
@@ -136,9 +136,9 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 2em;
+	/* margin-top: 2em; */
 	position: relative;
-	top: 1.2em;
+	/* top: 1.2em; */
 	text-align: right;
 	width: 20%;
 }
@@ -146,10 +146,10 @@ h2 {
 
 h3 {
 	font-size: 1em;
-	line-height: 2em;
+	/* line-height: 2em; */
 	color: #ccc;
 	position: relative;
-	top: 1.6em;
+	/* top: 1.6em; */
 	text-align: right;
 	width: 20%;
 }
@@ -164,7 +164,7 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: 1em;
+	/* margin-top: 1em; */
 	position: relative;
 	left: 25%;
 	color: #ccc;
