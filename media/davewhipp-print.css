@@ -141,7 +141,7 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 12pt;
-	/* line-height: 1.35em; */
+	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir, Verdana, sans-serif;
 	/*margin-top: 1em;
@@ -159,7 +159,7 @@ p {
 code {
 	font: normal normal;
 	font-size: 90%;
-	/*line-height: 1em;*/
+	line-height: 1em;
 	font-family: Monaco, Menlo, monospace, sans-serif;
 	color: #ccc;
 }
@@ -236,7 +236,7 @@ h2 {
 
 h3 {
 	font-size: 1em;
-	/* line-height: 2em; */
+	line-height: 2em;
 	color: #ccc;
 	position: relative;
 	/* top: 1.6em; */

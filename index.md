@@ -14,12 +14,12 @@ Creative Computing Researcher, Designer, Composer
 ## Currently
 EPSRC-funded PhD student in Artificial Intelligence and Music at the __Centre for Digital Music - Queen Mary, University of London__. Also affiliated with the Sonic Interaction Design Lab, Communication Acoustics Lab, and Cognitive Science Group.
 
-### Research interests
 
+### Research interests
 Explainable Artificial Intelligence, End-User Programming, Human-Computer Interaction  
 
-## Education
 
+## Education
 `2020 - 2022`
 __Goldsmiths College, University of London__
 M.Mus. Sonic Arts (Distinction)  
@@ -37,7 +37,6 @@ Advisors: Dr Kirsten Harris, Dr Bryan Brazeau
 
 
 ## Occupation
-
 `2023 - Present`
 __Queen Mary, University of London__ Demonstrator – User Experience Design
 Support tutorials, providing feedback on student ethnographies, analyses and designs. 
