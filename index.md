@@ -37,11 +37,11 @@ Advisors: Dr Kirsten Harris, Dr Bryan Brazeau
 
 
 ## Occupation
-`2023 - Present`
+`2023 - Now`
 __Queen Mary, University of London__ Demonstrator – User Experience Design
 Support tutorials, providing feedback on student ethnographies, analyses and designs. 
 
-`2021 - Present`
+`2021 - Now`
 __Goldsmiths College__ Research Assistant – [MocapStreamer](http://mocapstreamer.live/)  
 Support development and evaluation of telematic motion capture technology for music and dance.  
 
