@@ -38,7 +38,7 @@ Advisors: Dr Kirsten Harris, Dr Bryan Brazeau
 
 ## Occupation
 `2023-Present`
-__Queen Mary, University of London__ Demonstrator – User Experience Design
+__Queen Mary, University of London__ Demonstrator – User Experience Design  
 Support tutorials, providing feedback on student ethnographies, analyses and designs. 
 
 `2022-Present`
